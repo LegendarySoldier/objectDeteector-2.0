@@ -1,0 +1,37 @@
+body{
+    background-size: 100%;
+}
+
+.heading{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+padding: 10px;
+color:crimson;
+background-color: black;
+font-family: monoton, cursive;
+font-size: 40px;
+}
+
+#status, #number_of_objects{
+font-size: 18px;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+.one{
+    color: black;
+    background-color: crimson;
+    border: 2px gray solid;
+}
+
+.two{
+    color: crimson;
+    background-color: black;
+    border: 2px gray solid;
+}
+
